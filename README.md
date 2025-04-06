@@ -1,16 +1,13 @@
-## Hi there 👋
+![Logotype](4605.jpg)
 
-<!--
-**world-11/world-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#World-11
 
-Here are some ideas to get you started:
+Репозиторий домашней работы по нейросетям.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Что было изучено
+
+1. Рассмотрены общие возможности нейросетей
+2.  Познакомились с Google Colaboratory (Colab) ![colab](1.png)
+3.   Советы по оформлению GitHub  ![github](2.png)
+4.   Рассмотрели существующие сервисы с применением нейросетей
+5.   Результаты работы некоторых библиотек
